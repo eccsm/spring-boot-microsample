@@ -1,0 +1,8 @@
+{
+	"name":"microsample",
+	"buildpacks":[
+		{
+			"url":"heroku/gradle"
+		}
+	]
+}
